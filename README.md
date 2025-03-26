@@ -24,7 +24,7 @@ This project demonstrates the AI Driven Hyper-Personalization & Recommendations.
    
 ## 🎥 Demo
 🔗 [Live Demo](#) (if applicable)  
-📹 [Video Demo](#) (if applicable)  
+📹 [Video Demo](https://youtu.be/RA7CZfqk_6Yhttps://youtu.be/RA7CZfqk_6Y) (if applicable)  
 🖼️ Screenshots:</br>
 **Product Recommendation**</br>
 <img width="1432" alt="Screenshot 2025-03-26 at 3 05 59 PM" src="https://github.com/user-attachments/assets/875cd697-495e-4514-8cd3-5944374e7b61" /></br>
