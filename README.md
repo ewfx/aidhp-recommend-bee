@@ -14,8 +14,14 @@
 ---
 
 ## 🎯 Introduction
-A brief overview of your project and its purpose. Mention which problem statement are your attempting to solve. Keep it concise and engaging.
+This project demonstrates the AI Driven Hyper-Personalization & Recommendations. This project is going to address the problem statements.
 
+**Hyper-Personalized Financial Product Recommendations:**</br>
+   A banking-focused model that suggests credit card palns,loan options and credit limit based on the transaction history and the customer profile.
+   
+**Predictive Customer Insights & Business Strategies:**</br>
+   AI-Driven insights that predict customer preferences and purchasing potential, allowing business to tailor enagagement startegies.
+   
 ## 🎥 Demo
 🔗 [Live Demo](#) (if applicable)  
 📹 [Video Demo](#) (if applicable)  
@@ -24,10 +30,18 @@ A brief overview of your project and its purpose. Mention which problem statemen
 ![Screenshot 1](link-to-image)
 
 ## 💡 Inspiration
-What inspired you to create this project? Describe the problem you're solving.
+The significance of hyper-personalization lies in its ability to create atruely one-on-one experience for customers, which is crucial in today's highly competitive market.By using advanced algorithms and the power of Large Language models(LLMs),businesses can predict what their customers want, sometimes even before they know it themselves.Hyper personalization builds stroger relationships,increases engagement , and ultimately drives higher conversion rates.
 
 ## ⚙️ What It Does
-Explain the key features and functionalities of your project.
+This project contains several AI models work together to create dynamic and individualized experiences.</br>
+
+**Clustering:** KMeans helps to determine which segment a customer belongs to , allowing for more relevant and targeted product recommendations.</br>
+
+**Multi-Target Classifcation:** The multi target classifier enables product recommendation by predicting the likelihood that the customer will be interested in various financial products.</br>
+
+**Random Forest Regression:** Once a product is recommended ,the random forest models furthuer customize the experiences by predicting the exact loan amounts or credit limits, making the recommendation more actinable and precise.</br>
+
+**LLM Insights:** The use of LLM ensures that the business recieves each customer  personalized summary and insights about their finacial standings , making the interaction more conversational and humman-like. 
 
 ## 🛠️ How We Built It
 Briefly outline the technologies, frameworks, and tools used in development.
