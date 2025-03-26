@@ -46,13 +46,16 @@ This project contains several AI models work together to create dynamic and indi
 **LLM Insights:** The use of LLM ensures that the business recieves each customer  personalized summary and insights about their finacial standings , making the interaction more conversational and humman-like. 
 
 ## 🛠️ How We Built It
-**Data Systhesis:** Faker python library is used to systhesis customer profile, transaction and demographics data.
-**Model setup:** Load all pre-trained machine learning models using the joblib from the local directory, including the KMeans clustering model,multi-target classifier and Random Forest regression models.
+
+**Data Systhesis:** Faker python library is used to systhesis customer profile, transaction and demographics data.</br>
+
+**Model setup:** Load all pre-trained machine learning models using the joblib from the local directory, including the KMeans clustering model,multi-target classifier and Random Forest regression models.</br>
+
 **Customer Data Processing:** Accepts customer data, process it and scales the data using a pretarined scaler.Thadata is then segmented into clusters and used for the product recommendation and loan prediction.</br>
 
 **Product Recommendation:** Using the multi-target classifier ,the app predicts the most probable product the customer might be interested in.Based on this prediction, the app uses the appropriate regression model to predict a specific loan amount or credit limit.</br>
 
-**LLM Integration Insights:** Leveraging Hugging Faces LLM,the app generates personalized text insights for each customer based on their profile.
+**LLM Integration Insights:** Leveraging Hugging Faces LLM,the app generates personalized text insights for each customer based on their profile.</br>
 
 ## 🚧 Challenges We Faced
 Describe the major technical or non-technical challenges your team encountered.
