@@ -24,7 +24,8 @@ This project demonstrates the AI Driven Hyper-Personalization & Recommendations.
    
 ## 🎥 Demo
 📹 [Video Demo](https://youtu.be/RA7CZfqk_6Yhttps://youtu.be/RA7CZfqk_6Y)  
-🖼️ Screenshots:</br>
+🖼️ [Screenshots:](https://github.com/ewfx/aidhp-recommend-bee/tree/main/link-to-image)
+
 [Product Recommendation](https://github.com/user-attachments/assets/875cd697-495e-4514-8cd3-5944374e7b61) </br>
 [Insights](https://github.com/user-attachments/assets/76e57815-577f-4f5a-afd4-550b270deac6)</br>
 
