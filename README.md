@@ -67,7 +67,7 @@ Creating the test data is the biggest challenge.
    ```sh
    pip install -r requirements.txt (for Python)
    ```
-3. Run all the cells Hyper-Personalization.ipynb.since we are using synthasized the test data using faker, this step is mandatory.
+3. Run all the cells Hyper-Personalization.ipynb.since we are using synthasized the test data using faker, this step is mandatory.Sample customer data can be obtained after running the notebook .
 4. Run the project  
    ```sh
     python app.py
