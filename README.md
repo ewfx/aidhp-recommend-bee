@@ -23,13 +23,10 @@ This project demonstrates the AI Driven Hyper-Personalization & Recommendations.
    AI-Driven insights that predict customer preferences and purchasing potential, allowing business to tailor enagagement startegies.
    
 ## 🎥 Demo
-🔗 [Live Demo](#) (if applicable)  
-📹 [Video Demo](https://youtu.be/RA7CZfqk_6Yhttps://youtu.be/RA7CZfqk_6Y) (if applicable)  
+📹 [Video Demo](https://youtu.be/RA7CZfqk_6Yhttps://youtu.be/RA7CZfqk_6Y)  
 🖼️ Screenshots:</br>
-**Product Recommendation**</br>
-<img width="1432" alt="Screenshot 2025-03-26 at 3 05 59 PM" src="https://github.com/user-attachments/assets/875cd697-495e-4514-8cd3-5944374e7b61" /></br>
-**Insights:**</br>
-<img width="1422" alt="Screenshot 2025-03-26 at 3 12 53 PM" src="https://github.com/user-attachments/assets/76e57815-577f-4f5a-afd4-550b270deac6" />
+[Product Recommendation](https://github.com/user-attachments/assets/875cd697-495e-4514-8cd3-5944374e7b61) </br>
+[Insights](https://github.com/user-attachments/assets/76e57815-577f-4f5a-afd4-550b270deac6)</br>
 
 ## 💡 Inspiration
 The significance of hyper-personalization lies in its ability to create atruely one-on-one experience for customers, which is crucial in today's highly competitive market.By using advanced algorithms and the power of Large Language models(LLMs),businesses can predict what their customers want, sometimes even before they know it themselves.Hyper personalization builds stroger relationships,increases engagement , and ultimately drives higher conversion rates.
@@ -58,7 +55,7 @@ This project contains several AI models work together to create dynamic and indi
 **LLM Integration Insights:** Leveraging Hugging Faces LLM,the app generates personalized text insights for each customer based on their profile.</br>
 
 ## 🚧 Challenges We Faced
-Describe the major technical or non-technical challenges your team encountered.
+Creating the test data is the biggest challenge.
 
 ## 🏃 How to Run
 1. Clone the repository  
@@ -69,7 +66,8 @@ Describe the major technical or non-technical challenges your team encountered.
    ```sh
    pip install -r requirements.txt (for Python)
    ```
-3. Run the project  
+3. Run all the cells Hyper-Personalization.ipynb.since we are using synthasized the test data using faker, this step is mandatory.
+4. Run the project  
    ```sh
     python app.py
    ```
