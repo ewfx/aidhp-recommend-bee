@@ -25,9 +25,11 @@ This project demonstrates the AI Driven Hyper-Personalization & Recommendations.
 ## 🎥 Demo
 🔗 [Live Demo](#) (if applicable)  
 📹 [Video Demo](#) (if applicable)  
-🖼️ Screenshots:
-
-![Screenshot 1](link-to-image)
+🖼️ Screenshots:</br>
+**Product Recommendation**</br>
+<img width="1432" alt="Screenshot 2025-03-26 at 3 05 59 PM" src="https://github.com/user-attachments/assets/875cd697-495e-4514-8cd3-5944374e7b61" /></br>
+**Insights:**</br>
+<img width="1422" alt="Screenshot 2025-03-26 at 3 12 53 PM" src="https://github.com/user-attachments/assets/76e57815-577f-4f5a-afd4-550b270deac6" />
 
 ## 💡 Inspiration
 The significance of hyper-personalization lies in its ability to create atruely one-on-one experience for customers, which is crucial in today's highly competitive market.By using advanced algorithms and the power of Large Language models(LLMs),businesses can predict what their customers want, sometimes even before they know it themselves.Hyper personalization builds stroger relationships,increases engagement , and ultimately drives higher conversion rates.
