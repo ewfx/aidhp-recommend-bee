@@ -63,19 +63,21 @@ Describe the major technical or non-technical challenges your team encountered.
    ```
 2. Install dependencies  
    ```sh
-   npm install  # or pip install -r requirements.txt (for Python)
+   pip install -r requirements.txt (for Python)
    ```
 3. Run the project  
    ```sh
-   npm start  # or python app.py
+    python app.py
    ```
 
 ## 🏗️ Tech Stack
-- 🔹 Frontend: React / Vue / Angular
-- 🔹 Backend: Node.js / FastAPI / Django
-- 🔹 Database: PostgreSQL / Firebase
-- 🔹 Other: OpenAI API / Twilio / Stripe
+- 🔹 Frontend: Flask (html)
+- 🔹 Backend: Flask
+- 🔹 AI Algorithms/Models: Random Forest Regressor, Random Forest Classifier, Huggingfaces pipeline,langchain,transformers
+- 🔹 Other: Huggingfaces
 
 ## 👥 Team
-- **Your Name** - [GitHub](#) | [LinkedIn](#)
-- **Teammate 2** - [GitHub](#) | [LinkedIn](#)
+- **Ravu Venugopal Rao** - [GitHub](#) | [LinkedIn](#)
+- **Mylavarapu Satyaprasad** - [GitHub](#) | [LinkedIn](#)
+- **Shreya Srikrishna** - [GitHub](#) | [LinkedIn](#)
+- **Juhita Naga Priya** - [GitHub](#) | [LinkedIn](#)
